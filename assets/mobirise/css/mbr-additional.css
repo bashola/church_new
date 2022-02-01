@@ -1443,26 +1443,26 @@ a {
   background-color: transparent;
   margin-bottom: 0;
 }
-.cid-sWblEu7NoY {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+.cid-sWc5NrxnUh {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sWblEu7NoY .mbr-overlay {
+.cid-sWc5NrxnUh .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-sWblEu7NoY form .mbr-section-btn {
+@media (min-width: 992px) {
+  .cid-sWc5NrxnUh form {
+    width: 50%;
+  }
+}
+.cid-sWc5NrxnUh form .mbr-section-btn {
   text-align: center;
   width: 100%;
 }
-.cid-sWblEu7NoY form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-sWblEu7NoY form .mbr-section-btn .btn {
-    width: 100%;
-  }
+.cid-sWc5NrxnUh form .mbr-section-btn .btn {
+  width: 100%;
 }
 .cid-sWbQ8uIW5v {
   padding-top: 75px;
