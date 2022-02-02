@@ -1413,16 +1413,23 @@ a {
   color: #000000;
   text-align: left;
 }
-.cid-sWegBkMG3Z {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-sWjVhkjPKr {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-sWegBkMG3Z .mbr-section-title {
-  color: #4479d9;
+@media (max-width: 991px) {
+  .cid-sWjVhkjPKr .image-wrapper {
+    margin-bottom: 1rem;
+  }
 }
-.cid-sWegBkMG3Z .mbr-section-subtitle {
-  color: #4479d9;
+.cid-sWjVhkjPKr img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sWjVhkjPKr .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-sWbkjZUovy {
   padding-top: 0rem;
